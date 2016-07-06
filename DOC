@@ -1,0 +1,9 @@
+1.下载PHP:http://windows.php.net/downloads/releases/php-5.6.23-Win32-VC11-x64.zip
+
+2.下载Nginx:http://nginx.org/download/nginx-1.8.1.zip
+
+3.安装并配置php 与 nginx。
+
+4.编写测试脚本。
+
+5.Done
