@@ -1,0 +1,5 @@
+//Èë¿Ú
+
+<?php
+ echo "Hello php!";
+?>
